@@ -1,6 +1,6 @@
 # Facebook Product Growth Strategy: Case Study
 
-Welcome to the Facebook Product Growth Strategy: Case Study, Here, we unravel the remarkable journey of Facebook's growth and evolution, from its inception to its current position as the largest social network in the world.
+Welcome to the Facebook Product Growth Strategy: Case Study, here we unravel the remarkable journey of Facebook's growth and evolution, from its inception to its current position as the largest social network in the world.
 
 ## Table of Contents
 1. [Introduction](#introduction)
