@@ -12,7 +12,11 @@
 - Every product goes through 4 stages in its life cycle - Introduction, Growth, Maturity, and Decline. 
 
 
-<image>
+    <h3 align = "center">  Image Description: PDLC Graph </h3>
+  <p align="center">
+  <img src="https://github.com/Amit-Ashok-Swain/Case-Study-Product-Growth-Strategy-of-Facebook/blob/main/images/01.png?raw=true" alt="PDLC Graph"/>
+       </p>
+
 
 ### Introduction 
 
@@ -26,7 +30,11 @@
 
 - And then, Facebook went into a period of hypergrowth - where people around the world over signed up for Facebook.  
 
-<image>
+    <h3 align = "center">  Image Description: Growth Stats </h3>
+  <p align="center">
+  <img src="https://github.com/Amit-Ashok-Swain/Case-Study-Product-Growth-Strategy-of-Facebook/blob/main/images/02.png?raw=true" alt="Growth Stats"/>
+       </p>
+
 
 
 **Who are Facebook's target users?**
